@@ -1,2 +1,5 @@
-test
+if (0==0){
 
+throw new Exception("O_o");
+
+}
